@@ -359,5 +359,6 @@ body {
 
 img {
     border: 10px solid pink;
+    width: 100%;
     max-width: 800px;
 }
